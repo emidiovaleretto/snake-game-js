@@ -1,6 +1,6 @@
 # [Classic] Snake Game​ in JavaScript :snake:
 
-<img src="../snake-game/assets/img/snake.png" width=400 alt="snake">
+<img src="./assets/img/snake.png" width=400 alt="snake">
 
 
 
