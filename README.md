@@ -18,7 +18,7 @@ Snake is a video game that originated during the late 1970s in arcades becoming 
 
 
 
-## Geeting Started
+## Getting Started
 
 
 
